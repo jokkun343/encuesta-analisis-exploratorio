@@ -16,7 +16,7 @@ El objetivo principal de este proyecto es analizar, a través de métodos estad�
 
 Dentro del proyecto encontrarás los siguientes directorios y archivos:
 
-´´´
+```text
 /proyecto_analisis_datos
 ├── datos/
 │   ├── original/
@@ -26,7 +26,7 @@ Dentro del proyecto encontrarás los siguientes directorios y archivos:
 ├── reportes/
 │   └── figuras/
 └── README.md
-´´´
+```
 
 Dentro del directorio `datos/`, encontrarás la base de datos original utilizada para este análisis en `datos/original/`. Asimismo, podrás explorar los datos después de pasar por el proceso de limpieza en el directorio `datos/procesados/`.
 

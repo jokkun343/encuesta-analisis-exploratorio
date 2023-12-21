@@ -1,0 +1,767 @@
+edad,genero,ciudad,posicion,experiencia,nivel,tecnologia,salario,estado,contrato,idioma,tamaño_empresa
+26,Male,Munich,Software Engineer,5,Senior,TypeScript,80000,Full-time employee,Unlimited contract,English,51-100
+26,Male,Berlin,Backend Developer,7,Senior,Ruby,80000,Full-time employee,Unlimited contract,English,101-1000
+28,Male,Berlin,Frontend Developer,4,Junior,JavaScript,54000,Full-time employee,Unlimited contract,English,51-100
+37,Male,Berlin,Frontend Developer,6,Middle,JavaScript,57000,Full-time employee,Unlimited contract,English,11-50
+24,Male,Berlin,Frontend Developer,5,Senior,TypeScript,65000,Full-time employee,Unlimited contract,English,1000+
+29,Male,Berlin,Backend Developer,8,Senior,PHP,56000,Full-time employee,Unlimited contract,English,101-1000
+35,Male,Berlin,Software Engineer,15,Lead,Java,95000,Full-time employee,Unlimited contract,English,101-1000
+34,Male,Berlin,Software Engineer,14,Senior,TypeScript,70000,Full-time employee,Unlimited contract,English,11-50
+31,Male,Wolfsburg,Backend Developer,5,Senior,Kotlin,75000,Full-time employee,Unlimited contract,English,101-1000
+29,Male,Hamburg,Backend Developer,7,Middle,Ruby,60350,Full-time employee,Unlimited contract,English,1000+
+27,Male,Berlin,Backend Developer,8,Senior,PHP,60000,Full-time employee,Unlimited contract,English,1000+
+34,Male,Berlin,Mobile Developer,11,Lead,Kotlin,80000,Full-time employee,Unlimited contract,English,101-1000
+34,Male,Berlin,Software Architect,15,Lead,NodeJS,100000,Full-time employee,Unlimited contract,English,1000+
+25,Male,Berlin,Software Engineer,5,Senior,JavaScript,65000,Full-time employee,Unlimited contract,German,1000+
+36,Male,Berlin,Software Engineer,17,Lead,PHP,70000,Full-time employee,Unlimited contract,English,101-1000
+38,Male,Berlin,Otro,18,Lead,Swift,80000,Full-time employee,Unlimited contract,English,101-1000
+24,Male,Berlin,DevOps,6,Senior,Kubernetes,75000,Full-time employee,Unlimited contract,English,101-1000
+40,Male,Berlin,Product Manager,13,Senior,SQL,70000,Full-time employee,Unlimited contract,English,101-1000
+29,Male,Berlin,Software Engineer,6,Lead,Go,85000,Full-time employee,Unlimited contract,English,101-1000
+31,Male,Berlin,Backend Developer,5,Middle,Java,65000,Full-time employee,Unlimited contract,English,101-1000
+39,Male,Berlin,Software Engineer,8,Senior,Java,80000,Full-time employee,Unlimited contract,English,51-100
+27,Male,Berlin,Software Engineer,8,Middle,JavaScript,63000,Full-time employee,Unlimited contract,English,101-1000
+30,Male,Berlin,Software Engineer,8,Senior,JavaScript,80000,Full-time employee,Unlimited contract,English,101-1000
+28,Male,Berlin,Backend Developer,5,Senior,Kotlin,75000,Full-time employee,Unlimited contract,English,101-1000
+29,Male,Berlin,Frontend Developer,7,Senior,React,72000,Full-time employee,Unlimited contract,English,1000+
+32,Male,Berlin,Frontend Developer,10,Senior,TypeScript,105000,Self-employed (freelancer),Temporary contract,English,101-1000
+30,Male,Berlin,Software Engineer,6,Senior,Java,74000,Full-time employee,Unlimited contract,English,1000+
+32,Male,Berlin,Backend Developer,3,Middle,Java,77000,Full-time employee,Unlimited contract,English,101-1000
+31,Male,Berlin,Software Engineer,7,Lead,Python,76000,Full-time employee,Unlimited contract,English,101-1000
+35,Male,Berlin,Backend Developer,10,Senior,Ruby,75000,Full-time employee,Unlimited contract,English,101-1000
+32,Male,Berlin,Backend Developer,8,Senior,PHP,65000,Full-time employee,Unlimited contract,English,11-50
+44,Male,Berlin,Backend Developer,12,Senior,Java,68000,Full-time employee,Unlimited contract,English,11-50
+35,Male,Munich,Software Engineer,11,Senior,PHP,65000,Full-time employee,Unlimited contract,German,101-1000
+29,Male,Berlin,Software Engineer,5,Senior,Go,75000,Full-time employee,Unlimited contract,English,101-1000
+39,Female,Berlin,Software Engineer,10,Senior,Java,70500,Full-time employee,Unlimited contract,German,101-1000
+28,Male,Munich,Backend Developer,5,Senior,Kotlin,72000,Full-time employee,Unlimited contract,English,101-1000
+34,Male,Munich,Software Engineer,13,Lead,.NET,72000,Full-time employee,Unlimited contract,English,51-100
+32,Male,Munich,Frontend Developer,7,Senior,JavaScript,62000,Full-time employee,Unlimited contract,German,101-1000
+36,Male,Munich,Backend Developer,15,Senior,Java,55000,Full-time employee,Unlimited contract,English,1000+
+39,Male,Berlin,Software Engineer,10,Senior,C#,75000,Full-time employee,Unlimited contract,German,1000+
+29,Male,Munich,Software Engineer,7,Senior,JavaScript,80000,Full-time employee,Unlimited contract,English,1000+
+31,Male,Berlin,Engineering Manager,11,Lead,Java,80000,Full-time employee,Unlimited contract,English,101-1000
+30,Male,Berlin,Backend Developer,5,Middle,Java,55000,Full-time employee,Unlimited contract,English,1000+
+33,Male,Frankfurt,Software Engineer,4,Middle,Java,50000,Full-time employee,Unlimited contract,English,11-50
+27,Male,Berlin,Software Engineer,5,Senior,Scala,78000,Full-time employee,Unlimited contract,English,1000+
+26,Female,Munich,Data Scientist,6,Middle,Python,60000,Full-time employee,Unlimited contract,English,1000+
+26,Male,Berlin,Software Engineer,8,Lead,Go,85000,Full-time employee,Unlimited contract,English,1000+
+31,Female,Berlin,Otro,6,Middle,SQL,60000,Full-time employee,Unlimited contract,English,101-1000
+30,Male,Berlin,Software Engineer,10,Senior,Scala,72000,Full-time employee,Unlimited contract,English,101-1000
+43,Male,Berlin,Mobile Developer,5,Senior,Kotlin,72000,Full-time employee,Unlimited contract,English,1000+
+33,Male,Berlin,Software Engineer,5,Middle,Python,65000,Full-time employee,Unlimited contract,English,101-1000
+31,Male,Berlin,Software Engineer,9,Senior,C#,60000,Full-time employee,Unlimited contract,English,11-50
+32,Female,Berlin,QA Engineer,10,Senior,Java,61000,Full-time employee,Unlimited contract,English,101-1000
+24,Male,Berlin,Data Scientist,4,Senior,Python,73000,Full-time employee,Unlimited contract,English,101-1000
+29,Male,Berlin,DevOps,7,Lead,Kubernetes,78000,Full-time employee,Unlimited contract,English,101-1000
+29,Male,Berlin,Data Scientist,4,Senior,Python,81000,Full-time employee,Unlimited contract,English,101-1000
+33,Male,Munich,QA Engineer,5,Senior,Java,60000,Full-time employee,Unlimited contract,English,1000+
+28,Male,Berlin,Software Engineer,8,Lead,PHP,80000,Full-time employee,Unlimited contract,English,101-1000
+32,Male,Munich,Software Engineer,7,Senior,Kotlin,60000,Full-time employee,Unlimited contract,English,51-100
+30,Male,Berlin,Backend Developer,8,Senior,Scala,80000,Full-time employee,Unlimited contract,English,1000+
+26,Male,Munich,Backend Developer,7,Senior,Java,78000,Full-time employee,Unlimited contract,English,101-1000
+31,Male,Munich,Software Engineer,10,Senior,Java,68000,Full-time employee,Unlimited contract,English,1000+
+38,Female,Munich,QA Engineer,6,Middle,Java,62000,Full-time employee,Unlimited contract,English,1000+
+37,Male,Berlin,Software Engineer,10,Senior,PHP,55000,Full-time employee,Unlimited contract,English,11-50
+25,Male,Munich,Software Engineer,3,Middle,Java,62000,Full-time employee,Unlimited contract,English,101-1000
+36,Male,Berlin,Frontend Developer,12,Senior,JavaScript,72000,Full-time employee,Unlimited contract,English,up to 10
+27,Male,Munich,QA Engineer,5,Senior,Swift,58000,Full-time employee,Unlimited contract,English,1000+
+37,Male,Munich,Software Engineer,15,Senior,PHP,75000,Full-time employee,Unlimited contract,German,101-1000
+26,Male,Munich,Data Scientist,3,Middle,Python,65000,Full-time employee,Unlimited contract,English,101-1000
+33,Male,Frankfurt,Otro,6,Middle,Python,85000,Full-time employee,Unlimited contract,English,1000+
+34,Male,Berlin,Frontend Developer,7,Senior,JavaScript,65000,Full-time employee,Unlimited contract,English,up to 10
+33,Male,Berlin,Backend Developer,12,Lead,PHP,65000,Full-time employee,Unlimited contract,English,101-1000
+29,Male,Berlin,Backend Developer,8,Senior,Scala,72000,Full-time employee,Unlimited contract,English,101-1000
+24,Male,Munich,Software Engineer,5,Middle,C++,79000,Full-time employee,Unlimited contract,English,1000+
+28,Male,Cologne,Otro,8,Senior,SQL,60000,Full-time employee,Unlimited contract,English,up to 10
+31,Male,Munich,Backend Developer,11,Senior,PHP,80000,Full-time employee,Unlimited contract,English,1000+
+28,Male,Munich,Mobile Developer,5,Senior,Swift,57000,Full-time employee,Unlimited contract,English,1000+
+32,Female,Kempten,Fullstack Developer,10,Middle,C#,49000,Full-time employee,Unlimited contract,Otro,51-100
+28,Male,Berlin,Software Engineer,6,Senior,Java,65000,Full-time employee,Unlimited contract,English,11-50
+33,Male,Berlin,Mobile Developer,6,Middle,Swift,63000,Full-time employee,Unlimited contract,English,101-1000
+31,Male,Berlin,Software Engineer,9,Senior,C#,60000,Full-time employee,Unlimited contract,English,11-50
+30,Male,Munich,Frontend Developer,6,Senior,JavaScript,75000,Full-time employee,Unlimited contract,English,51-100
+37,Male,Munich,Backend Developer,12,Senior,PHP,62000,Full-time employee,Unlimited contract,English,101-1000
+30,Male,Berlin,Software Engineer,10,Lead,Python,78000,Full-time employee,Unlimited contract,English,101-1000
+25,Male,Munich,Backend Developer,5,Senior,Java,75000,Full-time employee,Unlimited contract,English,101-1000
+36,Male,Berlin,Backend Developer,19,Senior,PHP,69000,Full-time employee,Unlimited contract,English,101-1000
+40,Male,Berlin,Frontend Developer,7,Middle,JavaScript,54000,Full-time employee,Unlimited contract,English,11-50
+35,Male,Munich,Software Engineer,13,Senior,Java,80000,Full-time employee,Unlimited contract,English,101-1000
+42,Male,Berlin,Software Engineer,20,Senior,Ruby,80000,Full-time employee,Unlimited contract,German,51-100
+34,Male,Berlin,QA Engineer,10,Senior,Java,75000,Full-time employee,Unlimited contract,English,101-1000
+30,Male,Berlin,Backend Developer,6,Senior,Ruby,75000,Full-time employee,Unlimited contract,English,101-1000
+35,Male,Berlin,Software Engineer,12,Senior,C#,70000,Full-time employee,Unlimited contract,English,1000+
+28,Male,Hamburg,Software Engineer,7,Senior,Scala,80000,Full-time employee,Unlimited contract,English,101-1000
+26,Male,Münster,Data Scientist,6,Junior,Python,48000,Full-time employee,Unlimited contract,German,1000+
+35,Male,Berlin,Frontend Developer,4,Middle,JavaScript,50000,Full-time employee,Unlimited contract,English,101-1000
+31,Female,Munich,QA Engineer,7,Senior,Java,68000,Full-time employee,Unlimited contract,English,1000+
+35,Male,Frankfurt,Software Engineer,12,Senior,Java,66000,Full-time employee,Unlimited contract,German,51-100
+25,Male,Berlin,Backend Developer,4,Middle,Python,60000,Full-time employee,Unlimited contract,English,11-50
+42,Female,Berlin,QA Engineer,20,Middle,Python,55000,Full-time employee,Unlimited contract,English,1000+
+40,Female,Munich,Software Engineer,20,Middle,Java,54000,Full-time employee,Unlimited contract,German,101-1000
+37,Male,Berlin,Software Engineer,8,Junior,Java,60000,Full-time employee,Unlimited contract,English,51-100
+33,Male,Munich,Software Engineer,10,Senior,Java,75000,Full-time employee,Unlimited contract,English,101-1000
+38,Male,Cologne,Software Engineer,11,Senior,PHP,55000,Full-time employee,Unlimited contract,English,101-1000
+36,Female,Munich,Backend Developer,5,Middle,PHP,60000,Full-time employee,Unlimited contract,English,101-1000
+32,Male,Frankfurt,Otro,10,Senior,Python,68500,Full-time employee,Unlimited contract,English,101-1000
+31,Male,Berlin,Frontend Developer,10,Senior,JavaScript,71060,Full-time employee,Unlimited contract,English,51-100
+33,Female,Berlin,QA Engineer,6,Middle,Java,60000,Full-time employee,Unlimited contract,English,101-1000
+28,Male,Munich,Backend Developer,6,Senior,Java,70000,Full-time employee,Unlimited contract,English,101-1000
+31,Male,Berlin,Software Engineer,9,Senior,Python,90000,Full-time employee,Unlimited contract,English,1000+
+28,Male,Berlin,Mobile Developer,5,Lead,Swift,70800,Full-time employee,Unlimited contract,English,11-50
+29,Male,Berlin,Software Engineer,8,Middle,PHP,55000,Full-time employee,Unlimited contract,English,11-50
+33,Male,Berlin,Backend Developer,5,Middle,Java,66000,Full-time employee,Unlimited contract,English,101-1000
+33,Male,Berlin,ML Engineer,10,Middle,Python,62000,Full-time employee,Unlimited contract,English,51-100
+34,Male,Berlin,Software Engineer,14,Lead,Java,95000,Full-time employee,Unlimited contract,English,1000+
+36,Male,Berlin,Backend Developer,18,Senior,PHP,65000,Full-time employee,Unlimited contract,English,101-1000
+32,Male,Berlin,Software Engineer,11,Lead,Kotlin,80000,Full-time employee,Unlimited contract,English,101-1000
+30,Male,Munich,Mobile Developer,8,Senior,Kotlin,66000,Full-time employee,Unlimited contract,English,1000+
+35,Male,Berlin,Product Manager,10,Senior,PHP,90000,Full-time employee,Unlimited contract,English,101-1000
+26,Male,Berlin,Mobile Developer,6,Senior,Kotlin,70000,Full-time employee,Unlimited contract,English,101-1000
+31,Male,Mannheim ,Otro,10,Senior,C,45000,Full-time employee,Temporary contract,English,11-50
+30,Female,Berlin,QA Engineer,5,Middle,Python,50000,Full-time employee,Unlimited contract,German,101-1000
+35,Female,Berlin,Software Engineer,15,Senior,C#,76000,Full-time employee,Unlimited contract,German,1000+
+32,Male,Munich,Fullstack Developer,9,Senior,Java,70000,Full-time employee,Unlimited contract,English,11-50
+29,Male,Berlin,Software Engineer,8,Senior,Go,70000,Full-time employee,Unlimited contract,English,1000+
+30,Male,Rosenheim,Software Engineer,9,Middle,Java,63000,Full-time employee,Unlimited contract,German,101-1000
+35,Male,Berlin,ML Engineer,10,Lead,Scala,96000,Full-time employee,Unlimited contract,English,11-50
+29,Male,Berlin,Software Engineer,7,Senior,Python,64000,Full-time employee,Unlimited contract,English,101-1000
+30,Female,Munich,Mobile Developer,10,Senior,Swift,65000,Full-time employee,Unlimited contract,English,1000+
+25,Male,Berlin,Software Engineer,6,Middle,Java,61500,Full-time employee,Unlimited contract,English,1000+
+43,Male,Berlin,Software Engineer,20,Senior,Python,79000,Full-time employee,Unlimited contract,English,1000+
+38,Male,Berlin,Software Engineer,16,Senior,Python,65000,Full-time employee,Unlimited contract,English,1000+
+26,Male,Berlin,Software Engineer,5,Middle,Scala,63000,Full-time employee,Unlimited contract,English,101-1000
+34,Male,Munich,Software Engineer,12,Lead,Python,95000,Full-time employee,Unlimited contract,English,11-50
+27,Male,Berlin,Backend Developer,5,Middle,Java,65000,Full-time employee,Unlimited contract,English,1000+
+30,Male,Berlin,Mobile Developer,3,Senior,Swift,58000,Full-time employee,Unlimited contract,English,11-50
+34,Male,Berlin,Data Scientist,5,Middle,Python,65000,Full-time employee,Unlimited contract,English,101-1000
+36,Female,Berlin,QA Engineer,14,Lead,Java,69000,Full-time employee,Unlimited contract,English,11-50
+27,Male,Berlin,Backend Developer,5,Middle,Java,65000,Full-time employee,Unlimited contract,English,1000+
+32,Male,Stuttgart,QA Engineer,9,Senior,Java,60000,Full-time employee,Unlimited contract,German,1000+
+33,Male,Boeblingen,DevOps,14,Senior,Go,70000,Full-time employee,Unlimited contract,English,101-1000
+30,Male,Berlin,Backend Developer,10,Middle,PHP,56000,Full-time employee,Unlimited contract,English,1000+
+35,Male,Berlin,Software Engineer,15,Senior,Go,70000,Full-time employee,Unlimited contract,English,51-100
+24,Male,Boeblingen,Otro,1,Junior,Java,48000,Full-time employee,Unlimited contract,English,11-50
+25,Male,Stuttgart,Backend Developer,4,Middle,Java,60000,Full-time employee,Unlimited contract,German,101-1000
+29,Male,Berlin,Mobile Developer,8,Senior,Kotlin,65000,Full-time employee,Unlimited contract,English,101-1000
+32,Male,Düsseldorf,Software Engineer,11,Senior,.NET,60000,Full-time employee,Unlimited contract,English,1000+
+24,Male,Munich,Software Engineer,3,Middle,NodeJS,58000,Full-time employee,Unlimited contract,English,1000+
+24,Female,Stuttgart,Software Engineer,2,Middle,Swift,55200,Full-time employee,Unlimited contract,English,11-50
+25,Male,Munich,ML Engineer,1,Middle,Python,65000,Full-time employee,Unlimited contract,English,1000+
+28,Male,Stuttgart,Software Engineer,8,Senior,C++,67200,Full-time employee,Unlimited contract,English,1000+
+30,Male,Munich,Software Engineer,7,Senior,C++,100000,Full-time employee,Unlimited contract,English,1000+
+26,Female,Berlin,Software Engineer,6,Senior,.NET,65000,Full-time employee,Unlimited contract,English,101-1000
+31,Female,Stuttgart,Data Scientist,4,Middle,R,65000,Full-time employee,Unlimited contract,German,1000+
+31,Male,Munich,Software Engineer,9,Middle,C++,92500,Full-time employee,Unlimited contract,English,1000+
+29,Female,Stuttgart,QA Engineer,6,Middle,JavaScript,54000,Full-time employee,Unlimited contract,English,101-1000
+33,Male,Munich,Backend Developer,15,Lead,Scala,100000,Full-time employee,Unlimited contract,English,11-50
+26,Male,Munich,ML Engineer,2,Junior,Python,58000,Full-time employee,Unlimited contract,German,101-1000
+34,Male,Berlin,Software Engineer,14,Senior,C#,72000,Full-time employee,Unlimited contract,English,101-1000
+37,Male,Berlin,Otro,12,Head,Python,90000,Full-time employee,Unlimited contract,English,11-50
+29,Male,Düsseldorf,Otro,1,Junior,Python,45000,Full-time employee,Unlimited contract,German,1000+
+39,Male,Munich,Software Engineer,12,Lead,PHP,108000,Self-employed (freelancer),Unlimited contract,English,up to 10
+29,Male,Munich,Backend Developer,8,Senior,Java,95000,Full-time employee,Unlimited contract,English,1000+
+36,Male,Nürnberg,Frontend Developer,1,Junior,JavaScript,37500,Full-time employee,Temporary contract,German,up to 10
+33,Male,Berlin,Otro,10,Middle,Swift,67000,Full-time employee,Unlimited contract,English,1000+
+31,Male,Berlin,Data Engineer,9,Senior,Python,81000,Full-time employee,Unlimited contract,English,101-1000
+38,Male,Berlin,Backend Developer,11,Senior,JavaScript,35000,Full-time employee,Unlimited contract,English,up to 10
+30,Male,Ansbach,Software Engineer,4,Junior,PHP,42000,Full-time employee,Unlimited contract,English,101-1000
+33,Male,Berlin,Backend Developer,12,Senior,PHP,67000,Full-time employee,Unlimited contract,English,101-1000
+43,Male,Berlin,Backend Developer,5,Middle,Java,64000,Full-time employee,Unlimited contract,English,101-1000
+32,Female,Stuttgart,Otro,2,Junior,Java,52000,Full-time employee,Unlimited contract,English,1000+
+34,Male,Leipzig,Mobile Developer,14,Senior,Kotlin,60000,Full-time employee,Unlimited contract,English,101-1000
+29,Male,Berlin,Backend Developer,9,Senior,Java,85000,Full-time employee,Unlimited contract,English,1000+
+33,Female,Berlin,QA Engineer,9,Middle,Java,57000,Full-time employee,Unlimited contract,English,101-1000
+40,Male,Munich,QA Engineer,18,Lead,Java,78000,Full-time employee,Unlimited contract,German,1000+
+38,Male,Munich,Backend Developer,12,Senior,Java,70000,Full-time employee,Unlimited contract,German,101-1000
+27,Male,Berlin,Backend Developer,7,Senior,Go,72000,Full-time employee,Unlimited contract,English,11-50
+38,Male,Munich,ML Engineer,10,Lead,Python,92000,Full-time employee,Unlimited contract,English,51-100
+42,Male,Berlin,ML Engineer,20,Senior,Python,80000,Full-time employee,Unlimited contract,German,1000+
+38,Male,Hamburg,Software Engineer,12,Senior,Java,73000,Full-time employee,Unlimited contract,English,51-100
+30,Male,Berlin,Software Engineer,11,Senior,Kotlin,55000,Full-time employee,Unlimited contract,English,11-50
+32,Male,Berlin,Software Engineer,9,Lead,JavaScript,90000,Full-time employee,Unlimited contract,English,101-1000
+34,Male,Berlin,Otro,10,Senior,Python,85000,Full-time employee,Unlimited contract,English,1000+
+25,Male,Stuttgart,Backend Developer,7,Senior,PHP,60000,Full-time employee,Unlimited contract,English,11-50
+32,Male,Berlin,Software Engineer,12,Senior,Swift,66800,Full-time employee,Unlimited contract,English,51-100
+33,Male,Munich,Otro,10,Senior,Java,70000,Full-time employee,Unlimited contract,English,101-1000
+34,Male,Berlin,ML Engineer,12,Senior,Python,90000,Full-time employee,Unlimited contract,English,1000+
+28,Male,Berlin,Backend Developer,7,Senior,PHP,70000,Full-time employee,Unlimited contract,English,101-1000
+30,Male,Berlin,Backend Developer,7,Senior,Ruby,72000,Full-time employee,Unlimited contract,English,11-50
+34,Male,Berlin,DevOps,12,Senior,Java,70000,Full-time employee,Unlimited contract,English,101-1000
+35,Male,Berlin,Otro,10,Senior,PHP,63500,Full-time employee,Unlimited contract,English,101-1000
+34,Male,Berlin,Software Engineer,12,Lead,.NET,78000,Full-time employee,Unlimited contract,German,1000+
+38,Male,Berlin,Software Engineer,13,Lead,Java,89570,Full-time employee,Unlimited contract,English,1000+
+34,Female,Berlin,Software Engineer,9,Senior,Kotlin,78000,Full-time employee,Unlimited contract,English,101-1000
+31,Male,Berlin,Mobile Developer,7,Senior,Swift,80000,Full-time employee,Unlimited contract,English,1000+
+37,Male,Berlin,Software Engineer,15,Senior,Scala,85000,Full-time employee,Unlimited contract,English,1000+
+30,Male,Munich,Frontend Developer,9,Middle,TypeScript,66000,Full-time employee,Unlimited contract,English,101-1000
+26,Male,Frankfurt,Otro,4,Middle,JavaScript,65000,Full-time employee,Unlimited contract,German,101-1000
+33,Male,Berlin,Software Engineer,14,Senior,PHP,68000,Full-time employee,Unlimited contract,English,51-100
+27,Male,Tuttlingen,Software Engineer,4,Junior,C#,46000,Full-time employee,Unlimited contract,German,up to 10
+38,Male,Stuttgart,Software Engineer,15,Senior,C#,56400,Full-time employee,Unlimited contract,English,11-50
+32,Male,Munich,Backend Developer,11,Senior,PHP,81200,Full-time employee,Unlimited contract,English,1000+
+26,Male,Frankfurt,Backend Developer,7,Senior,Java,65000,Full-time employee,Unlimited contract,English,101-1000
+29,Male,Berlin,Software Engineer,12,Senior,Go,75000,Full-time employee,Unlimited contract,English,101-1000
+33,Male,Hamburg,Software Engineer,10,Senior,Ruby,75000,Full-time employee,Unlimited contract,English,101-1000
+34,Male,Berlin,Software Engineer,10,Senior,C++,76000,Full-time employee,Unlimited contract,English,101-1000
+29,Male,Munich,Software Engineer,7,Senior,TypeScript,80000,Full-time employee,Unlimited contract,English,11-50
+33,Male,Munich,Software Engineer,10,Senior,C#,78000,Full-time employee,Unlimited contract,German,51-100
+32,Male,Berlin,Backend Developer,4,Senior,Ruby,65000,Full-time employee,Unlimited contract,English,51-100
+29,Male,Berlin,Backend Developer,8,Middle,Go,65000,Full-time employee,Unlimited contract,English,101-1000
+28,Male,Munich,Software Engineer,5,Senior,C++,67000,Self-employed (freelancer),Unlimited contract,English,up to 10
+25,Male,Hamburg,Data Scientist,2,Middle,Python,48000,Full-time employee,Unlimited contract,German,11-50
+32,Male,Munich,Otro,9,Senior,ABAP,70800,Full-time employee,Unlimited contract,German,1000+
+26,Male,Frankfurt,Software Engineer,3,Middle,Python,48000,Full-time employee,Unlimited contract,English,51-100
+29,Male,Munich,Mobile Developer,8,Senior,Java,65400,Full-time employee,Unlimited contract,English,11-50
+40,Male,Berlin,Backend Developer,18,Senior,PHP,60000,Full-time employee,Unlimited contract,English,1000+
+27,Male,Munich,Software Engineer,5,Senior,JavaScript,65000,Full-time employee,Unlimited contract,English,51-100
+30,Male,Berlin,DevOps,9,Lead,Kubernetes,90000,Full-time employee,Unlimited contract,English,101-1000
+30,Male,Hamburg,Software Engineer,6,Middle,.NET,60000,Full-time employee,Unlimited contract,English,101-1000
+29,Male,Munich,Otro,8,Senior,C++,73000,Full-time employee,Unlimited contract,English,1000+
+37,Male,Heidelberg,Software Engineer,15,Senior,ABAP,67500,Full-time employee,Unlimited contract,English,1000+
+28,Male,Berlin,Otro,6,Middle,Kubernetes,66000,Full-time employee,Unlimited contract,English,1000+
+28,Female,Berlin,Software Engineer,8,Lead,JavaScript,80000,Full-time employee,Unlimited contract,English,101-1000
+28,Male,Stuttgart,Backend Developer,5,Middle,Java,55000,Full-time employee,Unlimited contract,German,101-1000
+33,Male,Berlin,Software Engineer,13,Senior,Ruby,75000,Full-time employee,Unlimited contract,English,1000+
+29,Male,Berlin,Backend Developer,11,Senior,Python,85000,Full-time employee,Unlimited contract,English,51-100
+31,Male,Munich,Software Engineer,11,Middle,Python,75000,Full-time employee,Unlimited contract,English,1000+
+32,Male,Berlin,Software Engineer,12,Senior,Java,83000,Full-time employee,Unlimited contract,English,1000+
+33,Male,Berlin,Software Engineer,10,Middle,Swift,65000,Full-time employee,Unlimited contract,English,1000+
+32,Male,Berlin,Backend Developer,5,Middle,Ruby,72000,Full-time employee,Unlimited contract,English,11-50
+34,Male,Berlin,Software Engineer,15,Lead,Java,80000,Full-time employee,Unlimited contract,English,1000+
+41,Male,Berlin,Software Engineer,19,Lead,Python,95500,Full-time employee,Unlimited contract,English,1000+
+35,Male,Cologne,Software Engineer,14,Senior,C++,72000,Full-time employee,Unlimited contract,English,101-1000
+26,Male,Hamburg,Software Engineer,7,Senior,TypeScript,72000,Full-time employee,Unlimited contract,German,101-1000
+27,Male,Berlin,Mobile Developer,3,Middle,Kotlin,65000,Full-time employee,Unlimited contract,English,101-1000
+31,Male,Dusseldorf,Software Engineer,7,Senior,C++,50400,Full-time employee,Unlimited contract,English,1000+
+25,Male,Berlin,Backend Developer,5,Middle,Java,80000,Full-time employee,Unlimited contract,English,1000+
+35,Male,Berlin,QA Engineer,11,Senior,Java,74400,Full-time employee,Unlimited contract,English,101-1000
+37,Male,Hamburg,Software Engineer,15,Senior,Java,70000,Full-time employee,Temporary contract,English,11-50
+32,Female,Cologne,Data Scientist,4,Senior,Python,85000,Full-time employee,Unlimited contract,English,1000+
+23,Male,Berlin,Software Engineer,4,Middle,JavaScript,70500,Full-time employee,Unlimited contract,English,1000+
+39,Male,Stuttgart,Software Engineer,11,Lead,PHP,75000,Full-time employee,Unlimited contract,English,101-1000
+27,Female,Berlin,Data Scientist,3,Middle,Python,58000,Full-time employee,Unlimited contract,English,51-100
+35,Male,Helsinki,Backend Developer,11,Senior,Python,66000,Full-time employee,Unlimited contract,English,101-1000
+29,Male,Berlin,Backend Developer,10,Senior,Ruby,80000,Full-time employee,Unlimited contract,English,101-1000
+30,Male,Munich,Mobile Developer,8,Lead,Swift,75000,Full-time employee,Unlimited contract,English,11-50
+24,Male,Frankfurt,Frontend Developer,3,Middle,JavaScript,44000,Full-time employee,Unlimited contract,English,51-100
+28,Male,Würzburg,Software Engineer,8,Senior,Java,75000,Full-time employee,Unlimited contract,English,101-1000
+28,Male,Berlin,Backend Developer,9,Senior,PHP,60000,Full-time employee,Unlimited contract,English,11-50
+37,Male,Berlin,Software Engineer,8,Senior,Python,76900,Full-time employee,Unlimited contract,English,101-1000
+30,Male,Munich,Frontend Developer,4,Middle,JavaScript,55000,Full-time employee,Unlimited contract,English,1000+
+31,Male,Berlin,Software Engineer,4,Lead,Java,95000,Full-time employee,Unlimited contract,English,1000+
+28,Female,Berlin,Software Engineer,3,Middle,JavaScript,60000,Full-time employee,Unlimited contract,English,101-1000
+31,Female,Munich,Software Engineer,2,Middle,Java,58000,Full-time employee,Unlimited contract,German,1000+
+34,Male,Berlin,Mobile Developer,9,Senior,Kotlin,72000,Full-time employee,Unlimited contract,English,1000+
+24,Male,Berlin,Backend Developer,4,Middle,PHP,46000,Full-time employee,Unlimited contract,English,51-100
+39,Male,Berlin,DevOps,15,Senior,Python,70000,Full-time employee,Unlimited contract,English,101-1000
+42,Male,Den Haag,Backend Developer,20,Senior,.NET,75000,Full-time employee,Unlimited contract,English,101-1000
+32,Female,Berlin,Mobile Developer,7,Senior,Kotlin,63000,Full-time employee,Unlimited contract,English,1000+
+23,Male,Berlin,Mobile Developer,3,Lead,Swift,65000,Full-time employee,Unlimited contract,English,51-100
+27,Male,Amsterdam,ML Engineer,4,Middle,Python,62000,Full-time employee,Unlimited contract,English,1000+
+32,Male,Munich,Software Engineer,10,Senior,Java,88000,Full-time employee,Unlimited contract,English,1000+
+26,Male,Berlin,Otro,7,Middle,SQL,60000,Full-time employee,Unlimited contract,English,101-1000
+29,Male,Berlin,Software Engineer,5,Middle,PHP,56000,Full-time employee,Unlimited contract,English,11-50
+30,Male,Hamburg,Frontend Developer,7,Senior,JavaScript,55000,Full-time employee,Unlimited contract,English,101-1000
+38,Male,Berlin,Mobile Developer,10,Senior,Swift,70000,Full-time employee,Unlimited contract,English,1000+
+24,Male,Berlin,Backend Developer,3,Junior,C#,48000,Full-time employee,Temporary contract,English,1000+
+24,Male,Tallinn,Software Engineer,3,Junior,Java,30000,Full-time employee,Unlimited contract,English,11-50
+34,Female,Berlin,QA Engineer,6,Senior,Ruby,67500,Full-time employee,Unlimited contract,English,1000+
+30,Male,Utrecht,Data Scientist,2,Middle,Python,48000,Full-time employee,Temporary contract,English,1000+
+27,Female,Munich,Frontend Developer,2,Middle,JavaScript,64000,Full-time employee,Unlimited contract,English,101-1000
+40,Female,Berlin,Fullstack Developer,8,Senior,C#,57000,Full-time employee,Unlimited contract,German,51-100
+23,Male,Stockholm,Frontend Developer,5,Senior,JavaScript,45600,Full-time employee,Unlimited contract,English,up to 10
+28,Male,Kyiv,Mobile Developer,5,Senior,Swift,45000,Full-time employee,Unlimited contract,English,11-50
+38,Male,Berlin,Software Engineer,16,Senior,ABAP,83000,Full-time employee,Unlimited contract,English,1000+
+32,Male,Hamburg,Software Engineer,12,Senior,Java,66300,Full-time employee,Unlimited contract,German,101-1000
+33,Female,Berlin,Software Engineer,6,Middle,Java,65000,Full-time employee,Unlimited contract,English,1000+
+40,Male,Stuttgart,Software Engineer,14,Senior,C,95000,Full-time employee,Unlimited contract,German,1000+
+28,Male,Berlin,Software Engineer,6,Middle,PHP,60000,Full-time employee,Unlimited contract,English,101-1000
+23,Male,Warsaw,Software Engineer,4,Middle,PHP,34000,Full-time employee,Temporary contract,English,up to 10
+31,Female,Berlin,QA Engineer,11,Middle,JavaScript,57000,Full-time employee,Unlimited contract,English,101-1000
+34,Male,Tallinn,Software Engineer,12,Middle,PHP,54000,Full-time employee,Unlimited contract,English,101-1000
+34,Male,Berlin,Software Engineer,10,Senior,.NET,60000,Full-time employee,Unlimited contract,English,11-50
+29,Male,Tallinn,Mobile Developer,7,Senior,Kotlin,65000,Full-time employee,Unlimited contract,English,101-1000
+38,Male,Munich,Software Engineer,15,Senior,JavaScript,80000,Full-time employee,Unlimited contract,English,51-100
+25,Female,Berlin,Frontend Developer,4,Middle,JavaScript,60000,Full-time employee,Unlimited contract,English,11-50
+23,Male,Berlin,Software Engineer,3,Middle,JavaScript,60000,Full-time employee,Unlimited contract,English,1000+
+30,Male,Munich,Software Engineer,10,Senior,.NET,75000,Full-time employee,Unlimited contract,English,1000+
+32,Male,Berlin,Engineering Manager,10,Middle,JavaScript,85000,Full-time employee,Unlimited contract,English,101-1000
+28,Male,Berlin,Frontend Developer,2,Junior,JavaScript,47000,Full-time employee,Unlimited contract,German,1000+
+31,Male,Berlin,ML Engineer,4,Junior,Python,62000,Full-time employee,Unlimited contract,German,1000+
+40,Female,Berlin,Software Engineer,2,Junior,JavaScript,50000,Full-time employee,Unlimited contract,English,51-100
+42,Male,Berlin,Software Engineer,17,Senior,Go,75000,Full-time employee,Unlimited contract,English,101-1000
+27,Male,Berlin,Software Engineer,6,Middle,Java,82000,Full-time employee,Unlimited contract,English,1000+
+29,Male,Munich,Software Engineer,8,Middle,PHP,75000,Full-time employee,Unlimited contract,English,1000+
+23,Male,Berlin,Software Engineer,5,Middle,Python,53000,Full-time employee,Unlimited contract,English,101-1000
+35,Male,Munich,Backend Developer,14,Senior,Java,77000,Full-time employee,Unlimited contract,English,101-1000
+33,Male,Lübeck,Software Engineer,10,Middle,C#,55000,Full-time employee,Unlimited contract,German,101-1000
+31,Male,Berlin,Software Engineer,10,Lead,Python,82000,Full-time employee,Unlimited contract,English,101-1000
+38,Male,Berlin,Data Scientist,15,Head,Python,100000,Full-time employee,Unlimited contract,English,101-1000
+31,Male,Hamburg,ML Engineer,3,Lead,Python,70000,Full-time employee,Unlimited contract,English,11-50
+26,Female,Berlin,Data Scientist,2,Junior,Python,47000,Full-time employee,Unlimited contract,English,11-50
+30,Male,Berlin,Software Engineer,10,Senior,Java,70000,Full-time employee,Unlimited contract,English,11-50
+33,Male,Munich,Software Engineer,9,Lead,Java,100000,Full-time employee,Unlimited contract,German,51-100
+33,Male,Munich,Software Engineer,11,Senior,Python,65000,Full-time employee,Unlimited contract,English,51-100
+31,Male,Berlin,Mobile Developer,10,Senior,Swift,80000,Full-time employee,Unlimited contract,English,1000+
+33,Male,Nuremberg ,Data Scientist,2,Middle,Python,54000,Full-time employee,Unlimited contract,English,1000+
+36,Male,Berlin,Frontend Developer,14,Senior,JavaScript,78000,Full-time employee,Unlimited contract,English,11-50
+33,Male,Nürnberg,Software Engineer,9,Senior,JavaScript,60000,Full-time employee,Unlimited contract,German,1000+
+36,Female,Berlin,DevOps,1,Middle,Java,60000,Full-time employee,Unlimited contract,English,51-100
+33,Male,Berlin,Data Analyst,2,Middle,SQL,62000,Full-time employee,Unlimited contract,English,101-1000
+40,Male,Berlin,QA Engineer,11,Senior,Python,60000,Full-time employee,Unlimited contract,German,101-1000
+35,Male,Frankfurt,Frontend Developer,6,Senior,JavaScript,80000,Full-time employee,Unlimited contract,English,11-50
+25,Male,Berlin,Software Engineer,6,Middle,Java,63700,Full-time employee,Unlimited contract,English,1000+
+27,Male,Berlin,Software Engineer,4,Middle,C#,65000,Full-time employee,Unlimited contract,English,101-1000
+28,Male,Berlin,Data Scientist,4,Middle,Python,70000,Full-time employee,Unlimited contract,English,101-1000
+36,Female,Munich,Frontend Developer,10,Middle,JavaScript,48000,Part-time employee,Unlimited contract,German,101-1000
+29,Female,Berlin,Otro,9,Lead,Java,66000,Full-time employee,Unlimited contract,English,101-1000
+28,Female,Berlin,Data Scientist,4,Middle,Python,65000,Full-time employee,Unlimited contract,English,101-1000
+32,Male,Berlin,Software Engineer,6,Middle,PHP,58000,Full-time employee,Temporary contract,German,1000+
+32,Male,Munich,Software Engineer,7,Senior,Python,72000,Full-time employee,Unlimited contract,English,11-50
+35,Male,Munich,Software Engineer,16,Lead,PHP,84000,Full-time employee,Unlimited contract,English,101-1000
+26,Male,Berlin,Data Scientist,5,Middle,Python,59000,Full-time employee,Unlimited contract,English,101-1000
+32,Male,Berlin,Frontend Developer,7,Middle,TypeScript,68000,Full-time employee,Unlimited contract,English,101-1000
+29,Male,Berlin,Data Engineer,5,Middle,Python,68000,Full-time employee,Unlimited contract,English,1000+
+26,Male,Berlin,Software Engineer,5,Middle,Swift,71000,Full-time employee,Unlimited contract,English,1000+
+28,Male,Berlin,Data Engineer,5,Middle,Scala,65000,Full-time employee,Unlimited contract,English,101-1000
+36,Male,Berlin,Data Scientist,5,Middle,Python,50000,Full-time employee,Unlimited contract,English,101-1000
+32,Male,Berlin,Software Engineer,10,Middle,JavaScript,65000,Full-time employee,Unlimited contract,English,51-100
+28,Male,Munich,Software Engineer,5,Middle,Java,56000,Full-time employee,Unlimited contract,English,11-50
+27,Male,Berlin,DevOps,7,Senior,Go,80000,Full-time employee,Unlimited contract,English,101-1000
+33,Male,Berlin,Software Engineer,16,Senior,Java,83000,Full-time employee,Unlimited contract,English,1000+
+34,Male,Munich,QA Engineer,5,Senior,Java,76500,Full-time employee,Unlimited contract,English,1000+
+31,Male,Berlin,Frontend Developer,8,Senior,TypeScript,60000,Full-time employee,Unlimited contract,English,11-50
+31,Male,Berlin,Data Scientist,5,Middle,Python,90000,Full-time employee,Unlimited contract,English,101-1000
+27,Male,Berlin,ML Engineer,6,Middle,Python,82000,Full-time employee,Unlimited contract,English,1000+
+29,Male,Berlin,Backend Developer,10,Senior,Scala,78000,Full-time employee,Unlimited contract,English,11-50
+39,Male,Berlin,Software Engineer,6,Senior,PHP,60000,Full-time employee,Unlimited contract,English,101-1000
+35,Male,Berlin,Frontend Developer,10,Senior,JavaScript,75000,Full-time employee,Unlimited contract,English,1000+
+32,Male,Berlin,QA Engineer,7,Senior,Swift,65000,Full-time employee,Temporary contract,English,51-100
+28,Male,Rome,ML Engineer,2,Middle,Java,36000,Full-time employee,Unlimited contract,English,1000+
+30,Female,Berlin,Data Scientist,6,Senior,Python,76000,Full-time employee,Unlimited contract,English,1000+
+26,Male,Berlin,Data Engineer,2,Middle,Python,54000,Full-time employee,Unlimited contract,English,1000+
+25,Male,Berlin,Data Engineer,3,Senior,Scala,65000,Full-time employee,Unlimited contract,English,1000+
+37,Female,Berlin,Data Scientist,2,Middle,Python,62000,Full-time employee,Unlimited contract,German,101-1000
+25,Male,Berlin,Software Engineer,5,Senior,NodeJS,57000,Full-time employee,Temporary contract,English,up to 10
+30,Male,Berlin,Frontend Developer,4,Senior,TypeScript,73000,Full-time employee,Unlimited contract,English,101-1000
+30,Male,Berlin,Frontend Developer,11,Senior,TypeScript,74000,Full-time employee,Unlimited contract,English,1000+
+29,Male,Berlin,Frontend Developer,9,Senior,JavaScript,74000,Full-time employee,Unlimited contract,English,1000+
+36,Male,Berlin,Otro,4,Middle,C++,40000,Full-time employee,Temporary contract,English,up to 10
+30,Female,Berlin,Software Engineer,4,Middle,Python,56000,Full-time employee,Unlimited contract,English,1000+
+29,Male,Stuttgart ,Software Engineer,7,Middle,C++,70000,Full-time employee,Unlimited contract,English,51-100
+32,Female,Berlin,QA Engineer,10,Middle,Java,68000,Full-time employee,Unlimited contract,English,1000+
+34,Male,Berlin,QA Engineer,10,Senior,JavaScript,70000,Full-time employee,Unlimited contract,English,1000+
+40,Male,Berlin,Otro,15,Head,Python,80000,Full-time employee,Unlimited contract,English,1000+
+38,Male,Berlin,Data Scientist,15,Senior,Python,56000,Full-time employee,Unlimited contract,English,11-50
+39,Male,Hamburg,Data Scientist,10,Senior,R,80000,Full-time employee,Unlimited contract,English,1000+
+36,Male,Berlin,Engineering Manager,18,Head,C++,98000,Full-time employee,Unlimited contract,English,1000+
+41,Male,Berlin,Backend Developer,20,Senior,Python,93000,Full-time employee,Unlimited contract,English,1000+
+41,Male,Berlin,Software Engineer,18,Lead,PHP,100000,Full-time employee,Unlimited contract,English,51-100
+33,Male,Berlin,Software Engineer,10,Lead,JavaScript,75000,Full-time employee,Unlimited contract,English,101-1000
+31,Male,Munich,Software Engineer,3,Middle,JavaScript,63000,Full-time employee,Unlimited contract,German,51-100
+29,Male,Berlin,Backend Developer,5,Senior,Java,70000,Full-time employee,Unlimited contract,English,1000+
+23,Male,Berlin,Backend Developer,3,Middle,Java,80000,Full-time employee,Unlimited contract,English,1000+
+34,Male,Berlin,QA Engineer,10,Lead,Java,85000,Full-time employee,Unlimited contract,English,101-1000
+37,Male,Berlin,Otro,15,Senior,C,78000,Full-time employee,Unlimited contract,English,1000+
+31,Male,Berlin,Software Engineer,9,Lead,JavaScript,99000,Full-time employee,Unlimited contract,English,101-1000
+32,Male,Amsterdam,Backend Developer,15,Senior,Go,90000,Full-time employee,Unlimited contract,English,11-50
+36,Male,Berlin,Backend Developer,14,Middle,JavaScript,75000,Full-time employee,Unlimited contract,English,101-1000
+40,Male,Karlsruhe,Otro,20,Lead,C#,85000,Full-time employee,Unlimited contract,English,1000+
+28,Male,Berlin,Backend Developer,7,Senior,Java,95000,Full-time employee,Unlimited contract,English,101-1000
+35,Male,Frankfurt,Backend Developer,15,Senior,C,63000,Full-time employee,Unlimited contract,German,51-100
+37,Male,Berlin,Backend Developer,12,Senior,Java,102000,Full-time employee,Unlimited contract,English,101-1000
+33,Male,Berlin,Software Engineer,10,Lead,C,95000,Full-time employee,Unlimited contract,English,1000+
+33,Male,Berlin,Backend Developer,13,Senior,Java,78600,Full-time employee,Unlimited contract,English,101-1000
+31,Male,Berlin,Software Engineer,4,Middle,Java,67000,Full-time employee,Unlimited contract,English,1000+
+28,Male,Wolfsburg,Software Engineer,3,Middle,Java,42000,Full-time employee,Unlimited contract,English,101-1000
+31,Male,Boeblingen,QA Engineer,6,Senior,Python,53000,Full-time employee,Unlimited contract,English,1000+
+25,Female,Frankfurt,Software Engineer,3,Middle,Java,53000,Full-time employee,Unlimited contract,German,1000+
+35,Male,Berlin,Data Analyst,9,Senior,Python,77000,Full-time employee,Unlimited contract,German,101-1000
+35,Male,Berlin,Software Engineer,15,Senior,.NET,80000,Full-time employee,Unlimited contract,English,11-50
+33,Male,Berlin,Data Engineer,13,Senior,Python,85000,Full-time employee,Unlimited contract,English,101-1000
+38,Male,Munich,Software Engineer,15,Senior,Java,70000,Full-time employee,Unlimited contract,English,11-50
+35,Male,Berlin,Software Engineer,10,Senior,PHP,78000,Full-time employee,Unlimited contract,German,up to 10
+36,Female,Berlin,Data Scientist,5,Senior,Python,75000,Part-time employee,Unlimited contract,English,51-100
+32,Female,Berlin,Software Engineer,6,Lead,Java,75000,Full-time employee,Unlimited contract,English,101-1000
+27,Female,Berlin,Otro,1,Middle,Python,63000,Full-time employee,Unlimited contract,English,1000+
+31,Male,Frankfurt,Data Scientist,6,Senior,Python,60000,Full-time employee,Unlimited contract,English,51-100
+31,Male,Paris,Mobile Developer,8,Senior,Swift,60000,Full-time employee,Unlimited contract,English,101-1000
+28,Male,Cologne,Backend Developer,4,Middle,Java,44000,Full-time employee,Unlimited contract,German,101-1000
+28,Female,Berlin,Frontend Developer,3,Middle,JavaScript,54500,Full-time employee,Unlimited contract,English,101-1000
+29,Male,Berlin,Frontend Developer,8,Head,JavaScript,82500,Full-time employee,Unlimited contract,English,1000+
+32,Female,Munich,Data Engineer,10,Middle,Python,75000,Full-time employee,Unlimited contract,English,11-50
+38,Male,Dublin ,Mobile Developer,16,Senior,Swift,85000,Full-time employee,Unlimited contract,English,101-1000
+30,Male,Stockholm,Backend Developer,7,Senior,C++,65000,Full-time employee,Unlimited contract,English,1000+
+30,Male,Paderborn,Data Scientist,6,Junior,Python,51000,Full-time employee,Unlimited contract,German,101-1000
+37,Male,Berlin,Mobile Developer,16,Senior,Swift,65000,Full-time employee,Unlimited contract,English,101-1000
+32,Male,Amsterdam,Mobile Developer,13,Senior,Kotlin,85000,Full-time employee,Unlimited contract,English,1000+
+30,Male,Berlin,Software Engineer,7,Senior,Java,86000,Full-time employee,Unlimited contract,English,1000+
+30,Male,Berlin,Software Engineer,8,Senior,JavaScript,60000,Full-time employee,Unlimited contract,English,51-100
+32,Male,Berlin,QA Engineer,10,Senior,JavaScript,81000,Full-time employee,Unlimited contract,English,1000+
+34,Male,Munich,Software Engineer,12,Senior,Java,74000,Full-time employee,Unlimited contract,English,101-1000
+43,Male,Cologne,Backend Developer,10,Senior,PHP,57600,Full-time employee,Unlimited contract,German,101-1000
+33,Male,Munich,Software Engineer,13,Senior,Java,70000,Full-time employee,Unlimited contract,English,101-1000
+28,Female,Munich,QA Engineer,8,Senior,Kotlin,75000,Full-time employee,Unlimited contract,English,101-1000
+33,Male,Hamburg,Software Engineer,11,Senior,Java,65000,Full-time employee,Unlimited contract,English,11-50
+35,Male,Berlin,Software Engineer,8,Senior,Go,90000,Full-time employee,Unlimited contract,English,1000+
+28,Male,Munich,Software Engineer,6,Middle,C,64000,Full-time employee,Unlimited contract,English,101-1000
+32,Male,Berlin,Backend Developer,10,Lead,Ruby,80000,Full-time employee,Unlimited contract,English,51-100
+25,Male,Berlin,Software Engineer,6,Senior,JavaScript,71750,Full-time employee,Unlimited contract,English,1000+
+27,Female,Berlin,Backend Developer,5,Middle,Kotlin,65000,Full-time employee,Unlimited contract,English,51-100
+28,Male,Frankfurt,Frontend Developer,7,Senior,JavaScript,80000,Full-time employee,Unlimited contract,English,11-50
+32,Female,Munich,QA Engineer,8,Senior,Java,60000,Full-time employee,Unlimited contract,English,101-1000
+28,Male,Karlsruhe,Backend Developer,7,Senior,Java,66000,Full-time employee,Unlimited contract,English,1000+
+34,Male,Berlin,Frontend Developer,13,Lead,JavaScript,85000,Full-time employee,Unlimited contract,English,101-1000
+35,Male,Konstanz,Data Scientist,10,Middle,Python,65000,Full-time employee,Unlimited contract,English,51-100
+33,Male,Berlin,Backend Developer,9,Senior,Java,81900,Full-time employee,Unlimited contract,English,1000+
+31,Female,Ulm,QA Engineer,8,Middle,Java,45000,Full-time employee,Unlimited contract,English,101-1000
+38,Male,Berlin,Data Scientist,15,Head,Python,100000,Full-time employee,Unlimited contract,English,101-1000
+32,Male,Berlin,DevOps,10,Middle,Python,62000,Full-time employee,Unlimited contract,English,101-1000
+37,Male,Berlin,Mobile Developer,17,Senior,Swift,77000,Full-time employee,Unlimited contract,English,1000+
+30,Male,Stuttgart,Software Engineer,8,Middle,C++,71000,Full-time employee,Unlimited contract,English,101-1000
+29,Male,Berlin,Mobile Developer,5,Senior,Swift,65000,Full-time employee,Unlimited contract,English,101-1000
+38,Male,Stuttgart ,Backend Developer,4,Middle,PHP,43000,Full-time employee,Unlimited contract,English,up to 10
+29,Male,Düsseldorf,Frontend Developer,6,Middle,TypeScript,55000,Full-time employee,Unlimited contract,German,11-50
+35,Male,Berlin,QA Engineer,12,Senior,JavaScript,63000,Full-time employee,Unlimited contract,English,101-1000
+41,Male,Munich,Software Engineer,19,Senior,Java,75000,Full-time employee,Unlimited contract,English,101-1000
+26,Female,Dusseldorf,Otro,5,Middle,ABAP,65000,Full-time employee,Unlimited contract,German,up to 10
+30,Male,Berlin,Data Engineer,6,Middle,Python,65000,Full-time employee,Unlimited contract,English,1000+
+35,Female,Munich,Backend Developer,4,Middle,PHP,51000,Full-time employee,Unlimited contract,German,101-1000
+32,Male,Berlin,Frontend Developer,13,Senior,JavaScript,70000,Full-time employee,Unlimited contract,English,11-50
+26,Male,Berlin,Data Engineer,4,Middle,Scala,51000,Full-time employee,Unlimited contract,English,11-50
+43,Male,Berlin,Engineering Manager,20,Lead,Java,105000,Full-time employee,Unlimited contract,English,1000+
+33,Male,Munich,Software Engineer,11,Senior,JavaScript,80000,Full-time employee,Unlimited contract,English,101-1000
+35,Female,Frankfurt,Software Engineer,1,Junior,ABAP,50000,Full-time employee,Unlimited contract,German,51-100
+28,Male,Munich,Frontend Developer,5,Middle,JavaScript,72000,Full-time employee,Unlimited contract,German,11-50
+27,Male,Munich,Data Engineer,2,Junior,Python,49000,Full-time employee,Unlimited contract,German,11-50
+36,Male,Berlin,Backend Developer,4,Middle,Java,55000,Full-time employee,Unlimited contract,English,101-1000
+38,Male,Berlin,Backend Developer,5,Middle,Java,66000,Full-time employee,Unlimited contract,English,101-1000
+28,Male,Berlin,Mobile Developer,6,Middle,Kotlin,85000,Full-time employee,Unlimited contract,English,1000+
+30,Male,Berlin,Frontend Developer,6,Senior,JavaScript,79000,Full-time employee,Unlimited contract,English,1000+
+30,Male,Berlin,Backend Developer,8,Middle,Python,74000,Full-time employee,Unlimited contract,English,1000+
+28,Male,Berlin,Backend Developer,8,Lead,Ruby,67000,Full-time employee,Unlimited contract,English,51-100
+29,Male,Berlin,Frontend Developer,3,Middle,JavaScript,48000,Full-time employee,Unlimited contract,English,51-100
+35,Male,Berlin,Software Engineer,13,Lead,TypeScript,103000,Full-time employee,Unlimited contract,English,101-1000
+33,Male,Berlin,Frontend Developer,10,Senior,JavaScript,74000,Full-time employee,Unlimited contract,English,101-1000
+25,Male,Berlin,Backend Developer,6,Senior,Go,86000,Full-time employee,Unlimited contract,English,101-1000
+42,Female,Berlin,QA Engineer,5,Middle,Java,46000,Full-time employee,Unlimited contract,English,51-100
+33,Male,Heidelberg,Software Engineer,11,Senior,Python,80000,Full-time employee,Temporary contract,English,101-1000
+39,Male,Cologne,Otro,12,Head,PHP,75000,Full-time employee,Unlimited contract,German,up to 10
+24,Male,Berlin,Software Engineer,2,Junior,JavaScript,50000,Full-time employee,Unlimited contract,German,1000+
+39,Male,Berlin,Engineering Manager,15,Lead,Java,78000,Full-time employee,Unlimited contract,German,101-1000
+33,Male,Amsterdam,Backend Developer,8,Senior,C#,75000,Full-time employee,Temporary contract,English,11-50
+26,Male,Berlin,Backend Developer,3,Middle,Java,60000,Full-time employee,Unlimited contract,English,101-1000
+29,Male,Berlin,Software Engineer,6,Middle,Swift,70000,Full-time employee,Unlimited contract,English,1000+
+29,Female,Berlin,Software Engineer,5,Middle,PHP,55000,Full-time employee,Unlimited contract,English,11-50
+32,Male,Prague,Software Engineer,8,Senior,C,36000,Full-time employee,Unlimited contract,Otro,1000+
+30,Male,Berlin,Backend Developer,9,Head,Java,85000,Full-time employee,Unlimited contract,English,51-100
+31,Male,Berlin,ML Engineer,7,Middle,Python,80000,Full-time employee,Unlimited contract,English,1000+
+31,Female,Berlin,Software Engineer,1,Junior,React,57000,Full-time employee,Unlimited contract,English,1000+
+36,Male,Frankfurt,Software Engineer,16,Middle,.NET,65000,Full-time employee,Unlimited contract,German,51-100
+30,Male,Berlin,Mobile Developer,8,Senior,Swift,60000,Self-employed (freelancer),Temporary contract,English,up to 10
+39,Male,Berlin,Software Engineer,19,Senior,Go,87000,Full-time employee,Unlimited contract,English,11-50
+32,Male,Berlin,Software Engineer,11,Senior,C++,100000,Full-time employee,Unlimited contract,English,1000+
+35,Male,Berlin,Backend Developer,12,Senior,PHP,54000,Full-time employee,Unlimited contract,English,101-1000
+34,Male,Berlin,Data Scientist,6,Senior,Python,80000,Full-time employee,Unlimited contract,English,1000+
+26,Male,Berlin,Data Scientist,4,Middle,Python,60000,Full-time employee,Unlimited contract,English,1000+
+29,Male,Helsinki,Mobile Developer,7,Senior,Kotlin,64000,Full-time employee,Unlimited contract,English,51-100
+31,Male,Berlin,Software Engineer,12,Senior,Java,60000,Full-time employee,Unlimited contract,English,1000+
+33,Male,Berlin,Software Engineer,10,Senior,Python,80000,Full-time employee,Unlimited contract,English,1000+
+28,Male,Berlin,Data Engineer,6,Middle,Python,83000,Full-time employee,Unlimited contract,English,1000+
+35,Male,Düsseldorf,Data Scientist,3,Middle,Python,68000,Full-time employee,Unlimited contract,English,51-100
+35,Male,Berlin,Otro,16,Senior,Python,100000,Full-time employee,Unlimited contract,English,1000+
+32,Male,Siegen,Software Engineer,13,Junior,C,48000,Full-time employee,Unlimited contract,English,51-100
+38,Male,Berlin,Software Engineer,15,Senior,Go,75000,Full-time employee,Unlimited contract,English,101-1000
+29,Male,Berlin,Engineering Manager,9,Lead,Go,85000,Full-time employee,Unlimited contract,English,101-1000
+33,Male,Berlin,Backend Developer,13,Senior,Java,110000,Full-time employee,Unlimited contract,English,101-1000
+28,Male,Berlin,Fullstack Developer,6,Senior,JavaScript,75000,Full-time employee,Unlimited contract,English,11-50
+32,Male,Berlin,Otro,9,Senior,Python,90000,Full-time employee,Unlimited contract,English,51-100
+39,Male,Berlin,Frontend Developer,10,Senior,JavaScript,85000,Full-time employee,Unlimited contract,English,101-1000
+31,Male,Minsk,Frontend Developer,6,Senior,TypeScript,110000,Full-time employee,Unlimited contract,English,11-50
+30,Male,Berlin,QA Engineer,8,Senior,Python,68000,Full-time employee,Unlimited contract,English,51-100
+30,Female,Düsseldorf ,Otro,2,Junior,R,45000,Full-time employee,Unlimited contract,English,1000+
+37,Male,Munich,Software Engineer,15,Senior,C#,80000,Full-time employee,Unlimited contract,German,51-100
+42,Male,Berlin,Software Engineer,20,Senior,PHP,65000,Full-time employee,Unlimited contract,English,101-1000
+31,Male,Nuremberg,QA Engineer,9,Middle,Java,60000,Full-time employee,Unlimited contract,English,1000+
+34,Female,Berlin,QA Engineer,11,Senior,Python,60000,Full-time employee,Unlimited contract,German,1000+
+35,Male,Berlin,Engineering Manager,20,Lead,Go,85000,Full-time employee,Unlimited contract,English,11-50
+31,Male,Munich,Software Engineer,14,Senior,C++,75000,Full-time employee,Unlimited contract,English,101-1000
+37,Male,Berlin,Software Engineer,11,Senior,Python,73000,Full-time employee,Unlimited contract,English,101-1000
+37,Male,Berlin,Backend Developer,12,Lead,Kotlin,90000,Full-time employee,Unlimited contract,English,11-50
+34,Male,Berlin,Mobile Developer,9,Senior,Swift,80000,Full-time employee,Unlimited contract,English,1000+
+25,Male,Marseille,Data Scientist,1,Junior,Python,42000,Full-time employee,Unlimited contract,English,up to 10
+42,Male,Friedrichshafen,Software Engineer,20,Senior,C++,70000,Full-time employee,Unlimited contract,English,101-1000
+33,Female,Berlin,Data Scientist,8,Senior,Python,77000,Full-time employee,Unlimited contract,English,1000+
+26,Female,Moscow,Frontend Developer,6,Senior,JavaScript,33000,Full-time employee,Unlimited contract,Otro,101-1000
+34,Male,Berlin,Otro,13,Lead,C#,65000,Full-time employee,Unlimited contract,English,51-100
+35,Male,Berlin,Software Engineer,15,Senior,Java,85000,Full-time employee,Unlimited contract,English,11-50
+27,Male,Berlin,Backend Developer,4,Senior,Go,70000,Full-time employee,Unlimited contract,English,11-50
+31,Male,Berlin,Software Engineer,7,Lead,Python,80000,Full-time employee,Unlimited contract,English,1000+
+24,Male,Berlin,Software Engineer,2,Junior,Java,60000,Full-time employee,Unlimited contract,German,up to 10
+28,Male,Berlin,Data Engineer,7,Senior,Python,90000,Full-time employee,Unlimited contract,English,101-1000
+42,Male,Berlin,Backend Developer,18,Middle,PHP,53000,Full-time employee,Unlimited contract,English,11-50
+27,Male,Berlin,Data Scientist,5,Middle,Python,55000,Full-time employee,Unlimited contract,English,51-100
+30,Male,Hannover,Software Engineer,5,Middle,Python,45000,Full-time employee,Unlimited contract,English,up to 10
+26,Male,Berlin,Software Engineer,2,Middle,TypeScript,58000,Full-time employee,Unlimited contract,English,1000+
+37,Male,Walldorf,ML Engineer,15,Lead,Python,80000,Full-time employee,Unlimited contract,English,1000+
+26,Female,Berlin,Otro,3,Middle,JavaScript,40000,Full-time employee,Unlimited contract,English,101-1000
+30,Male,Hamburg,Data Scientist,5,Head,Python,80000,Full-time employee,Unlimited contract,English,11-50
+26,Male,Eindhoven,ML Engineer,3,Middle,Python,48000,Full-time employee,Unlimited contract,English,101-1000
+34,Male,France,Data Scientist,11,Senior,Python,80000,Full-time employee,Unlimited contract,Otro,1000+
+38,Female,Regensburg,ML Engineer,3,Middle,Python,65000,Full-time employee,Temporary contract,German,1000+
+28,Male,Frankfurt,Mobile Developer,5,Senior,Swift,50000,Full-time employee,Unlimited contract,English,11-50
+29,Female,Berlin,Data Scientist,2,Junior,R,52000,Full-time employee,Unlimited contract,German,up to 10
+28,Male,"Warsaw, Poland",Software Engineer,6,Middle,C#,52800,Full-time employee,Unlimited contract,English,51-100
+42,Male,Berlin,Software Engineer,12,Lead,Java,95000,Full-time employee,Unlimited contract,English,101-1000
+29,Male,Munich,Data Scientist,4,Middle,Python,61500,Full-time employee,Unlimited contract,English,11-50
+29,Male,Munich,Software Engineer,4,Middle,R,78000,Full-time employee,Unlimited contract,English,1000+
+27,Female,Berlin,Backend Developer,1,Junior,Java,42000,Full-time employee,Unlimited contract,German,101-1000
+37,Male,Munich,Software Engineer,14,Head,TypeScript,84000,Full-time employee,Unlimited contract,English,up to 10
+31,Male,Amsterdam,Data Scientist,10,Lead,Python,100000,Full-time employee,Unlimited contract,English,11-50
+35,Male,Berlin,Data Analyst,5,Middle,R,49000,Full-time employee,Unlimited contract,English,101-1000
+27,Male,Berlin,Data Scientist,4,Junior,Python,60000,Full-time employee,Temporary contract,English,51-100
+29,Male,Munich,Otro,6,Middle,Python,68000,Full-time employee,Unlimited contract,English,101-1000
+36,Male,Berlin,Backend Developer,5,Senior,Java,70000,Full-time employee,Unlimited contract,English,101-1000
+33,Male,Munich,Backend Developer,10,Senior,Java,70000,Full-time employee,Unlimited contract,English,11-50
+42,Male,Berlin,Software Engineer,12,Lead,Java,95000,Full-time employee,Unlimited contract,English,101-1000
+32,Female,Berlin,Otro,1,Junior,SQL,48000,Full-time employee,Unlimited contract,English,101-1000
+29,Female,Berlin,Software Engineer,4,Middle,Java,60000,Full-time employee,Unlimited contract,English,101-1000
+23,Male,Munich,ML Engineer,1,Junior,Python,49000,Full-time employee,Unlimited contract,English,101-1000
+35,Female,Berlin,Frontend Developer,2,Junior,React,40000,Full-time employee,Unlimited contract,English,101-1000
+34,Male,Berlin,Otro,10,Senior,SQL,75000,Full-time employee,Unlimited contract,English,101-1000
+34,Male,Berlin,DevOps,12,Lead,Kubernetes,94000,Full-time employee,Unlimited contract,English,1000+
+31,Male,Munich,ML Engineer,4,Senior,Python,100000,Full-time employee,Unlimited contract,English,1000+
+34,Female,Berlin,QA Engineer,7,Senior,Java,55000,Full-time employee,Unlimited contract,English,101-1000
+33,Male,Frankfurt,Software Engineer,8,Senior,C#,67000,Full-time employee,Unlimited contract,English,11-50
+33,Male,Munich,Backend Developer,12,Middle,PHP,56000,Full-time employee,Unlimited contract,English,101-1000
+31,Male,Berlin,Backend Developer,5,Senior,Python,77000,Full-time employee,Unlimited contract,English,1000+
+42,Male,Berlin,Software Engineer,12,Lead,Java,95000,Full-time employee,Unlimited contract,English,101-1000
+33,Male,Heilbronn,Otro,7,Lead,C++,90000,Full-time employee,Unlimited contract,German,1000+
+42,Male,Berlin,Software Engineer,12,Lead,Java,95000,Full-time employee,Unlimited contract,English,101-1000
+30,Male,Berlin,Otro,7,Head,Python,100000,Full-time employee,Unlimited contract,English,101-1000
+32,Female,Berlin,QA Engineer,10,Lead,Java,65000,Full-time employee,Unlimited contract,German,1000+
+34,Male,Berlin,Software Engineer,16,Lead,Ruby,91000,Full-time employee,Unlimited contract,English,101-1000
+35,Male,Berlin,Data Scientist,15,Middle,C++,60000,Full-time employee,Temporary contract,English,101-1000
+33,Male,Munich,Otro,10,Senior,PHP,79000,Full-time employee,Unlimited contract,English,1000+
+39,Male,Düsseldorf ,Otro,12,Senior,PHP,65000,Full-time employee,Unlimited contract,German,1000+
+34,Male,Munich,Frontend Developer,4,Middle,JavaScript,66000,Full-time employee,Unlimited contract,English,101-1000
+28,Male,London,Software Engineer,8,Senior,.NET,75000,Full-time employee,Unlimited contract,English,101-1000
+35,Male,Berlin,Frontend Developer,6,Middle,React,66500,Full-time employee,Unlimited contract,English,1000+
+34,Male,Munich,Backend Developer,13,Lead,Java,105000,Full-time employee,Unlimited contract,English,11-50
+36,Male,Dortmund,Software Engineer,8,Senior,Kotlin,83000,Full-time employee,Unlimited contract,English,1000+
+30,Female,Munich,Software Engineer,8,Senior,Java,52000,Full-time employee,Unlimited contract,German,1000+
+27,Male,Berlin,Data Engineer,6,Middle,Python,74000,Full-time employee,Unlimited contract,English,1000+
+27,Male,Berlin,QA Engineer,5,Middle,Java,56700,Full-time employee,Unlimited contract,English,101-1000
+33,Male,Berlin,Software Engineer,7,Middle,Ruby,54000,Full-time employee,Temporary contract,English,51-100
+25,Male,Frankfurt,DevOps,2,Junior,Python,65000,Full-time employee,Unlimited contract,English,1000+
+38,Male,Berlin,Software Engineer,12,Senior,Java,92000,Full-time employee,Unlimited contract,English,1000+
+30,Female,Jena,Software Engineer,4,Middle,JavaScript,54000,Full-time employee,Temporary contract,English,101-1000
+27,Male,Berlin,Backend Developer,3,Middle,Java,57000,Full-time employee,Unlimited contract,English,51-100
+36,Male,Berlin,Software Engineer,5,Middle,JavaScript,60000,Full-time employee,Unlimited contract,English,101-1000
+43,Male,Berlin,Software Engineer,20,Middle,Ruby,70000,Full-time employee,Unlimited contract,English,1000+
+32,Male,Munich,Frontend Developer,10,Lead,JavaScript,80000,Full-time employee,Unlimited contract,English,11-50
+28,Male,Berlin,ML Engineer,0,Junior,Python,48000,Full-time employee,Unlimited contract,English,11-50
+36,Male,Nuremberg,Software Engineer,20,Lead,Java,74000,Full-time employee,Unlimited contract,German,1000+
+38,Female,Düsseldorf,Data Scientist,14,Middle,R,70000,Full-time employee,Unlimited contract,German,1000+
+26,Male,Amsterdam,Data Scientist,2,Junior,Python,48000,Full-time employee,Temporary contract,English,51-100
+34,Male,Stuttgart ,Software Engineer,6,Head,C++,90000,Full-time employee,Unlimited contract,German,1000+
+25,Male,Stuttgart,Data Scientist,0,Junior,Python,58000,Full-time employee,Unlimited contract,German,1000+
+30,Male,Frankfurt,Otro,3,Middle,Python,65000,Full-time employee,Unlimited contract,English,101-1000
+30,Male,Cracow,Otro,7,Senior,SQL,68500,Full-time employee,Unlimited contract,English,51-100
+30,Female,Stockholm,QA Engineer,7,Senior,Python,48000,Full-time employee,Unlimited contract,English,51-100
+33,Female,Brunswick,Software Engineer,6,Middle,C++,58000,Full-time employee,Unlimited contract,German,1000+
+26,Male,Berlin,Backend Developer,6,Senior,Go,70000,Full-time employee,Unlimited contract,English,1000+
+29,Male,Berlin,Data Scientist,6,Middle,Python,57000,Full-time employee,Unlimited contract,English,up to 10
+36,Male,Zurich,Data Scientist,5,Senior,Python,106000,Full-time employee,Unlimited contract,English,11-50
+23,Male,Dublin,Data Analyst,3,Senior,Python,49200,Full-time employee,Unlimited contract,English,1000+
+28,Male,Berlin,ML Engineer,1,Junior,Python,43000,Full-time employee,Unlimited contract,English,up to 10
+35,Male,Berlin,Data Scientist,12,Senior,Python,77000,Full-time employee,Unlimited contract,English,1000+
+37,Female,Berlin,Data Scientist,8,Middle,Python,67000,Full-time employee,Unlimited contract,English,1000+
+30,Male,Barcelona,Data Scientist,5,Senior,R,40000,Full-time employee,Unlimited contract,Otro,1000+
+24,Male,Sofia,ML Engineer,5,Senior,Python,64000,Full-time employee,Unlimited contract,English,11-50
+35,Male,Frankfurt,Otro,6,Head,C,90000,Full-time employee,Unlimited contract,English,1000+
+31,Male,Munich,Otro,10,Lead,Python,80000,Full-time employee,Unlimited contract,German,101-1000
+27,Female,Munich,Backend Developer,6,Senior,Java,85600,Full-time employee,Unlimited contract,English,101-1000
+29,Male,Bonn,Data Scientist,2,Middle,Python,55200,Full-time employee,Temporary contract,English,1000+
+29,Male,Berlin,Otro,6,Head,Python,92000,Full-time employee,Unlimited contract,German,1000+
+34,Male,Berlin,Backend Developer,14,Lead,Kotlin,96000,Full-time employee,Unlimited contract,English,1000+
+29,Male,Helsinki,Frontend Developer,10,Senior,TypeScript,60000,Full-time employee,Unlimited contract,English,101-1000
+35,Male,Luttich,Data Scientist,12,Lead,Python,85000,Full-time employee,Unlimited contract,English,1000+
+31,Male,Berlin,Software Engineer,6,Senior,Kotlin,90000,Full-time employee,Unlimited contract,English,1000+
+30,Male,Bielefeld,Software Engineer,5,Junior,C++,55000,Full-time employee,Unlimited contract,German,11-50
+36,Male,Hamburg,Data Scientist,2,Middle,Python,63000,Full-time employee,Unlimited contract,English,11-50
+33,Male,Berlin,Backend Developer,13,Senior,Python,83000,Full-time employee,Unlimited contract,English,51-100
+36,Male,Berlin,Frontend Developer,6,Middle,JavaScript,58000,Full-time employee,Unlimited contract,English,101-1000
+29,Male,Berlin,Backend Developer,9,Senior,Java,75000,Full-time employee,Unlimited contract,English,51-100
+32,Male,Hamburg,Backend Developer,14,Lead,Java,80000,Full-time employee,Unlimited contract,English,101-1000
+30,Male,Berlin,Software Engineer,7,Senior,Python,49000,Full-time employee,Temporary contract,English,11-50
+30,Male,Munich,Data Scientist,2,Middle,Python,50000,Full-time employee,Unlimited contract,English,11-50
+30,Male,Berlin,ML Engineer,6,Middle,Python,59000,Full-time employee,Unlimited contract,English,51-100
+30,Male,Frankfurt,Data Scientist,5,Middle,Python,52500,Full-time employee,Unlimited contract,English,11-50
+38,Male,Cologne,Software Engineer,15,Senior,C#,59000,Full-time employee,Unlimited contract,English,up to 10
+28,Male,warsaw,Data Scientist,3,Middle,Python,50000,Self-employed (freelancer),Unlimited contract,English,101-1000
+29,Male,Berlin,Data Scientist,5,Senior,Python,75000,Full-time employee,Unlimited contract,English,11-50
+34,Male,Munich,Frontend Developer,5,Senior,JavaScript,54000,Full-time employee,Unlimited contract,English,101-1000
+34,Male,Berlin,ML Engineer,3,Senior,Python,70000,Full-time employee,Temporary contract,English,101-1000
+28,Male,Wolfsburg,Software Engineer,2,Junior,C,48000,Full-time employee,Unlimited contract,English,101-1000
+40,Male,Mannheim,Software Engineer,9,Middle,C,88000,Full-time employee,Unlimited contract,English,1000+
+27,Male,Cologne,Software Engineer,1,Junior,C++,45000,Full-time employee,Unlimited contract,German,11-50
+37,Male,Berlin,Data Scientist,10,Senior,Python,82000,Full-time employee,Unlimited contract,English,101-1000
+40,Male,Hildesheim,Software Engineer,16,Senior,C++,72000,Full-time employee,Unlimited contract,English,1000+
+39,Male,Berlin,Software Engineer,12,Lead,JavaScript,82000,Full-time employee,Unlimited contract,English,1000+
+32,Male,Vienna,Otro,10,Lead,Java,80000,Full-time employee,Unlimited contract,German,1000+
+26,Female,Berlin,Backend Developer,5,Middle,Java,65000,Full-time employee,Unlimited contract,English,1000+
+32,Female,Munich,Data Scientist,5,Senior,Python,80000,Full-time employee,Unlimited contract,German,1000+
+32,Male,Munich,Software Engineer,8,Senior,C++,65000,Full-time employee,Unlimited contract,English,101-1000
+31,Male,Helsinki,Software Engineer,5,Middle,Java,59064,Full-time employee,Unlimited contract,English,51-100
+30,Male,Berlin,Software Engineer,10,Senior,Ruby,90000,Full-time employee,Unlimited contract,English,1000+
+30,Female,Berlin,QA Engineer,8,Senior,JavaScript,70000,Full-time employee,Unlimited contract,English,101-1000
+25,Male,Hamburg,Backend Developer,5,Middle,Java,53500,Full-time employee,Unlimited contract,English,1000+
+26,Male,Munich,Software Engineer,4,Middle,JavaScript,75000,Full-time employee,Unlimited contract,English,101-1000
+38,Male,Munich,Software Engineer,16,Senior,.NET,90000,Full-time employee,Unlimited contract,English,101-1000
+32,Male,Innsbruck,Data Scientist,3,Senior,Python,62000,Full-time employee,Unlimited contract,English,1000+
+34,Male,Berlin,Backend Developer,10,Middle,Java,65600,Full-time employee,Unlimited contract,English,101-1000
+36,Male,Stockholm,Mobile Developer,14,Senior,Java,80000,Full-time employee,Unlimited contract,English,1000+
+28,Female,Berlin,Data Analyst,3,Middle,SQL,53000,Full-time employee,Unlimited contract,English,101-1000
+25,Male,Berlin,Software Engineer,6,Middle,Scala,65000,Full-time employee,Unlimited contract,English,1000+
+28,Male,Berlin,Data Scientist,6,Lead,Python,78000,Full-time employee,Unlimited contract,English,51-100
+35,Male,Berlin,Software Engineer,20,Senior,JavaScript,100000,Full-time employee,Unlimited contract,English,1000+
+25,Male,Brussels ,Data Scientist,1,Junior,Python,38000,Full-time employee,Unlimited contract,English,1000+
+23,Female,Berlin,Otro,1,Junior,SQL,36000,Full-time employee,Unlimited contract,English,1000+
+28,Male,Munich,Software Engineer,3,Junior,.NET,65000,Full-time employee,Unlimited contract,English,1000+
+30,Male,Heidelberg,Software Engineer,9,Senior,.NET,60000,Full-time employee,Temporary contract,English,1000+
+30,Male,Heidelberg,Software Engineer,9,Senior,.NET,60000,Full-time employee,Temporary contract,English,1000+
+28,Male,Zurich,Software Engineer,6,Middle,C++,100000,Full-time employee,Unlimited contract,German,11-50
+29,Male,Berlin,Frontend Developer,5,Middle,JavaScript,66000,Full-time employee,Unlimited contract,English,1000+
+26,Female,Prague,Software Engineer,4,Middle,C#,64000,Full-time employee,Unlimited contract,Otro,1000+
+26,Male,Berlin,Otro,4,Middle,Python,55000,Full-time employee,Unlimited contract,English,1000+
+31,Male,Munich,Software Engineer,5,Middle,Java,74000,Full-time employee,Unlimited contract,English,1000+
+36,Male,Munich,Software Engineer,13,Head,Java,90000,Full-time employee,Unlimited contract,English,101-1000
+31,Male,Berlin,Software Engineer,7,Senior,Java,75000,Full-time employee,Unlimited contract,English,101-1000
+28,Male,Munich,Software Engineer,8,Senior,PHP,57000,Full-time employee,Unlimited contract,English,51-100
+28,Male,Munich,Software Engineer,8,Senior,PHP,57000,Full-time employee,Unlimited contract,English,51-100
+30,Male,Berlin,Backend Developer,4,Middle,Python,58000,Full-time employee,Unlimited contract,English,101-1000
+35,Male,Berlin,Software Engineer,12,Middle,Kotlin,75000,Full-time employee,Unlimited contract,English,1000+
+30,Male,Berlin,Software Engineer,10,Middle,Swift,71000,Full-time employee,Unlimited contract,English,101-1000
+28,Male,Cologne,Software Engineer,5,Middle,Java,50000,Full-time employee,Unlimited contract,Otro,101-1000
+42,Male,Berlin,Backend Developer,19,Senior,PHP,66000,Full-time employee,Unlimited contract,English,101-1000
+34,Male,Berlin,Backend Developer,14,Senior,Kotlin,95000,Full-time employee,Unlimited contract,English,1000+
+27,Male,Hamburg,Backend Developer,0,Junior,Python,50000,Full-time employee,Unlimited contract,English,up to 10
+36,Female,Berlin,Data Scientist,5,Senior,Python,87000,Full-time employee,Unlimited contract,English,1000+
+31,Male,Berlin,Software Engineer,4,Senior,Python,68000,Full-time employee,Unlimited contract,English,101-1000
+32,Male,Berlin,Software Engineer,13,Lead,JavaScript,83000,Full-time employee,Unlimited contract,English,1000+
+36,Male,Prefer not to say,ML Engineer,6,Senior,Python,110000,Full-time employee,Unlimited contract,English,101-1000
+26,Male,Munich,Software Engineer,6,Senior,TypeScript,93000,Full-time employee,Unlimited contract,English,11-50
+28,Female,Berlin,Data Scientist,4,Middle,Python,73700,Full-time employee,Unlimited contract,English,1000+
+34,Male,Munich,Data Scientist,10,Senior,Python,85000,Full-time employee,Unlimited contract,English,101-1000
+38,Male,Berlin,Data Scientist,10,Senior,Python,87550,Full-time employee,Unlimited contract,German,101-1000
+37,Male,Berlin,Software Engineer,16,Senior,Java,80000,Full-time employee,Unlimited contract,English,101-1000
+25,Male,Hamburg,ML Engineer,2,Middle,Python,60000,Full-time employee,Unlimited contract,German,11-50
+39,Female,Berlin,Data Scientist,3,Junior,Python,60000,Full-time employee,Unlimited contract,English,up to 10
+25,Male,Hamburg,Software Engineer,1,Junior,C#,43500,Full-time employee,Unlimited contract,German,51-100
+30,Female,Berlin,Software Engineer,7,Senior,Java,60000,Full-time employee,Unlimited contract,English,51-100
+35,Male,Munich,Software Engineer,14,Senior,C++,98000,Full-time employee,Unlimited contract,English,1000+
+31,Male,Berlin,Software Engineer,4,Senior,Java,69000,Full-time employee,Unlimited contract,English,1000+
+31,Male,Hamburg,Data Scientist,6,Middle,Python,57000,Full-time employee,Unlimited contract,German,1000+
+25,Female,Amsterdam,Data Scientist,2,Middle,Python,49850,Full-time employee,Unlimited contract,English,11-50
+27,Male,Dusseldurf,Backend Developer,2,Middle,PHP,50000,Full-time employee,Unlimited contract,English,101-1000
+37,Male,Berlin,Software Engineer,12,Middle,PHP,65000,Full-time employee,Unlimited contract,English,1000+
+28,Female,Berlin,Backend Developer,3,Middle,Python,65000,Full-time employee,Unlimited contract,English,1000+
+35,Male,Fr,Backend Developer,4,Middle,Java,42000,Full-time employee,Unlimited contract,English,51-100
+36,Male,Berlin,Otro,15,Lead,Go,85000,Full-time employee,Unlimited contract,English,1000+
+32,Male,Berlin,Designer (UI/UX),5,Senior,Java,70000,Self-employed (freelancer),Unlimited contract,German,up to 10
+22,Male,Frankfurt,Software Engineer,2,Junior,Java,45000,Full-time employee,Unlimited contract,German,1000+
+33,Male,Berlin,Otro,3,Head,Python,100000,Full-time employee,Unlimited contract,German,51-100
+35,Male,Berlin,Backend Developer,13,Senior,PHP,68000,Full-time employee,Unlimited contract,English,1000+
+32,Female,Berlin,Otro,5,Middle,Java,50400,Full-time employee,Unlimited contract,English,11-50
+28,Male,Berlin,Otro,4,Junior,SQL,55000,Full-time employee,Unlimited contract,English,1000+
+30,Male,Hamburg,Data Scientist,5,Middle,Python,55000,Full-time employee,Unlimited contract,English,101-1000
+32,Male,Berlin,Backend Developer,10,Senior,NodeJS,80000,Full-time employee,Unlimited contract,English,11-50
+31,Male,Berlin,Data Engineer,4,Middle,Python,50000,Full-time employee,Unlimited contract,English,101-1000
+32,Male,Munich,Software Engineer,10,Lead,Swift,75000,Full-time employee,Unlimited contract,English,101-1000
+25,Male,Munich,Frontend Developer,7,Senior,JavaScript,70000,Full-time employee,Unlimited contract,English,101-1000
+34,Male,Munich,Software Engineer,10,Senior,C++,74000,Full-time employee,Unlimited contract,English,1000+
+29,Male,Darmstadt,Data Scientist,5,Middle,Python,65000,Full-time employee,Unlimited contract,English,101-1000
+29,Male,Darmstadt,Data Scientist,5,Middle,Python,65000,Full-time employee,Unlimited contract,English,101-1000
+24,Male,Munich,DevOps,3,Junior,Go,77000,Full-time employee,Unlimited contract,English,1000+
+35,Male,Frankfurt,Software Engineer,10,Senior,Java,60000,Full-time employee,Unlimited contract,English,101-1000
+27,Male,Munich,Software Engineer,2,Junior,Java,68000,Full-time employee,Unlimited contract,English,101-1000
+34,Male,Munich,DevOps,12,Middle,Java,72000,Full-time employee,Unlimited contract,English,101-1000
+35,Male,Darmstadt,Data Scientist,4,Senior,Python,67000,Full-time employee,Unlimited contract,English,51-100
+36,Male,Berlin,Backend Developer,10,Senior,Java,75000,Full-time employee,Unlimited contract,English,101-1000
+33,Male,Munich,Backend Developer,13,Senior,Java,70000,Full-time employee,Unlimited contract,English,51-100
+35,Male,Berlin,Software Engineer,15,Senior,Java,85000,Full-time employee,Unlimited contract,English,101-1000
+25,Female,Cambridge,Frontend Developer,4,Middle,JavaScript,45000,Full-time employee,Unlimited contract,English,101-1000
+34,Male,Cologne,CTO,14,Lead,C#,84000,Full-time employee,Unlimited contract,English,11-50
+42,Male,Hamburg,Data Scientist,2,Senior,Python,80000,Full-time employee,Unlimited contract,German,1000+
+37,Female,Hamburg,Otro,7,Middle,Java,46000,Full-time employee,Unlimited contract,German,101-1000
+32,Male,Berlin,Mobile Developer,8,Senior,Swift,75000,Full-time employee,Unlimited contract,English,1000+
+26,Female,Berlin,Mobile Developer,8,Middle,C++,40000,Self-employed (freelancer),Temporary contract,German,101-1000
+35,Male,Munich,Software Engineer,15,Head,SQL,100000,Full-time employee,Unlimited contract,English,11-50
+41,Male,Munich,Software Engineer,15,Senior,Kotlin,99000,Full-time employee,Unlimited contract,German,1000+
+33,Male,Berlin,Backend Developer,8,Lead,NodeJS,90000,Full-time employee,Unlimited contract,English,101-1000
+40,Male,Berlin,Backend Developer,20,Lead,Java,80000,Full-time employee,Unlimited contract,English,1000+
+28,Male,Brussels,Otro,3,Middle,C++,45000,Full-time employee,Unlimited contract,English,up to 10
+39,Male,Berlin,Software Engineer,15,Lead,Java,75000,Full-time employee,Unlimited contract,English,51-100
+32,Male,Copenhagen,Data Scientist,6,Senior,Python,92000,Full-time employee,Unlimited contract,English,up to 10
+32,Female,Berlin,Software Engineer,2,Middle,JavaScript,63000,Full-time employee,Unlimited contract,English,101-1000
+37,Female,Berlin,Data Scientist,7,Head,Python,75000,Full-time employee,Unlimited contract,English,11-50
+30,Male,Berlin,Data Scientist,5,Middle,Python,60000,Full-time employee,Unlimited contract,English,51-100
+30,Female,Hamburg,Software Engineer,5,Senior,Java,70000,Full-time employee,Unlimited contract,English,1000+
+30,Female,Hamburg,Software Engineer,5,Senior,Java,70000,Full-time employee,Unlimited contract,English,1000+
+27,Male,Munich,QA Engineer,6,Middle,Python,70000,Full-time employee,Unlimited contract,English,1000+
+29,Male,Berlin,Software Engineer,6,Senior,Python,70000,Full-time employee,Unlimited contract,English,1000+
+27,Male,Berlin,Data Engineer,0,Junior,Python,40000,Full-time employee,Unlimited contract,German,1000+
+32,Male,Berlin,Backend Developer,9,Senior,Scala,90000,Full-time employee,Unlimited contract,English,101-1000
+32,Male,Berlin,Software Engineer,11,Senior,Scala,72500,Full-time employee,Unlimited contract,English,1000+
+30,Male,Berlin,Backend Developer,9,Senior,Scala,75000,Full-time employee,Unlimited contract,English,1000+
+30,Male,Berlin,Backend Developer,9,Senior,Scala,85000,Full-time employee,Unlimited contract,English,1000+
+36,Male,Stuttgart,Mobile Developer,16,Lead,Java,62500,Full-time employee,Unlimited contract,English,51-100
+33,Male,Berlin,Software Engineer,7,Senior,C++,65900,Full-time employee,Unlimited contract,English,1000+
+33,Male,Berlin,Engineering Manager,15,Lead,Java,85000,Full-time employee,Unlimited contract,English,1000+
+32,Male,Munich,Software Engineer,13,Middle,Java,95000,Full-time employee,Unlimited contract,English,1000+
+34,Male,Berlin,Backend Developer,12,Senior,Kotlin,75000,Full-time employee,Unlimited contract,English,1000+
+28,Female,Berlin,Frontend Developer,5,Senior,JavaScript,64000,Full-time employee,Unlimited contract,English,1000+
+38,Male,Berlin,Data Scientist,6,Lead,Python,110000,Full-time employee,Unlimited contract,English,1000+
+33,Male,Berlin,Software Engineer,11,Senior,Scala,107000,Full-time employee,Unlimited contract,English,1000+
+36,Male,Berlin,Backend Developer,12,Senior,Python,100000,Full-time employee,Unlimited contract,English,1000+
+36,Male,Berlin,Software Engineer,15,Senior,PHP,70000,Full-time employee,Unlimited contract,English,101-1000
+37,Male,Aachen,QA Engineer,15,Senior,Python,70000,Full-time employee,Unlimited contract,English,101-1000
+33,Male,Munich,Frontend Developer,10,Senior,JavaScript,100000,Full-time employee,Unlimited contract,English,101-1000
+33,Male,Stuttgart,Otro,12,Lead,PHP,70200,Full-time employee,Unlimited contract,German,101-1000
+31,Male,Berlin,Backend Developer,7,Senior,Go,75000,Full-time employee,Unlimited contract,English,101-1000
+36,Male,Amsterdam,Mobile Developer,14,Senior,Swift,75000,Full-time employee,Unlimited contract,English,11-50
+36,Male,Regensburg,Software Engineer,10,Middle,C#,66000,Full-time employee,Unlimited contract,German,51-100
+30,Male,Berlin,Otro,3,Middle,Java,58000,Full-time employee,Unlimited contract,English,101-1000
+27,Male,Krakow,QA Engineer,5,Senior,Java,35000,Full-time employee,Temporary contract,English,101-1000
+33,Female,Munich,Software Engineer,10,Senior,Java,47500,Full-time employee,Unlimited contract,English,11-50
+26,Male,Berlin,Backend Developer,5,Middle,Java,72000,Full-time employee,Unlimited contract,English,1000+
+29,Male,Berlin,Software Engineer,9,Senior,C++,73000,Full-time employee,Unlimited contract,English,1000+
+31,Male,Berlin,Backend Developer,4,Middle,Ruby,50000,Full-time employee,Unlimited contract,English,11-50
+36,Male,Stuttgart,Otro,8,Lead,.NET,72000,Full-time employee,Unlimited contract,German,101-1000
+36,Male,Berlin,Mobile Developer,10,Middle,Kotlin,68000,Full-time employee,Unlimited contract,English,1000+
+29,Male,Munich,Data Scientist,6,Middle,SQL,70000,Full-time employee,Unlimited contract,English,1000+
+30,Female,Berlin,Frontend Developer,3,Lead,JavaScript,57600,Full-time employee,Unlimited contract,English,101-1000
+30,Male,Munich,Software Engineer,8,Senior,PHP,68000,Full-time employee,Unlimited contract,English,51-100
+29,Male,Berlin,Backend Developer,5,Senior,Go,75000,Full-time employee,Unlimited contract,English,101-1000
+34,Male,Berlin,Software Engineer,14,Lead,Java,95000,Full-time employee,Unlimited contract,English,1000+
+30,Male,Berlin,Backend Developer,10,Lead,Java,82000,Full-time employee,Unlimited contract,English,101-1000
+34,Male,Prague,Backend Developer,14,Lead,C#,90000,Full-time employee,Unlimited contract,English,1000+
+26,Male,Munich,Mobile Developer,5,Middle,Kotlin,65000,Full-time employee,Unlimited contract,Otro,51-100
+35,Male,Munich,Software Engineer,12,Lead,Python,100000,Full-time employee,Unlimited contract,English,51-100
+34,Male,Ingolstadt ,Software Engineer,4,Junior,C++,55000,Full-time employee,Unlimited contract,German,1000+
+31,Male,Munich,Backend Developer,10,Senior,Ruby,85000,Full-time employee,Unlimited contract,English,101-1000
+24,Male,Berlin,Frontend Developer,5,Senior,TypeScript,68250,Full-time employee,Unlimited contract,English,101-1000
+27,Male,Munich,Software Engineer,7,Middle,.NET,63000,Full-time employee,Unlimited contract,English,51-100
+28,Male,Munich,Software Engineer,7,Middle,Java,63000,Full-time employee,Unlimited contract,English,101-1000
+25,Male,Berlin,ML Engineer,5,Middle,Scala,65000,Full-time employee,Unlimited contract,English,1000+
+33,Female,Munich,Otro,10,Junior,Java,60000,Full-time employee,Unlimited contract,German,1000+
+39,Male,Berlin,QA Engineer,7,Senior,Java,76000,Full-time employee,Unlimited contract,English,1000+
+37,Male,Berlin,Mobile Developer,15,Senior,Kotlin,84700,Full-time employee,Unlimited contract,English,101-1000
+32,Male,Munich,Software Engineer,10,Head,Scala,95000,Full-time employee,Unlimited contract,English,11-50
+28,Male,Berlin,Frontend Developer,5,Middle,JavaScript,55000,Full-time employee,Unlimited contract,English,101-1000
+34,Male,Zurich,Software Engineer,7,Senior,PHP,108500,Full-time employee,Unlimited contract,English,11-50
+31,Male,Berlin,Backend Developer,9,Senior,Java,70000,Full-time employee,Unlimited contract,English,51-100
+39,Male,Munich,Otro,15,Lead,PHP,110000,Full-time employee,Unlimited contract,English,101-1000
+26,Male,Saarbrücken,Frontend Developer,7,Middle,JavaScript,38350,Full-time employee,Unlimited contract,German,101-1000
